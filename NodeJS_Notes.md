@@ -1,4 +1,4 @@
-<!-- Node.js is an open-source, cross-platform runtime environment that allows developers to build server-side and networking applications using JavaScript.
+Node.js is an open-source, cross-platform runtime environment that allows developers to build server-side and networking applications using JavaScript.
 
 Features of Node js:
 1. `Asynchronous and Non-blocking`: Node.js follows an event-driven, non-blocking I/O model. This allows it to efficiently handle concurrent connections and I/O operations without blocking the execution of other tasks. As a result, Node.js can handle a large number of simultaneous connections with high performance.
@@ -438,4 +438,4 @@ STATUS_CODES: {
     '509': 'Bandwidth Limit Exceeded',
     '510': 'Not Extended',
     '511': 'Network Authentication Required'
-  } --> 
+  } 
